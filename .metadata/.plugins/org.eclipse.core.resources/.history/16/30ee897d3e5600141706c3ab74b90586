@@ -1,0 +1,7 @@
+package com.app
+
+object d {
+
+  def main(args: Array[String]): Unit = {}
+
+}
