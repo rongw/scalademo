@@ -1,6 +1,6 @@
 .metadata/
-TestApp/bin/**
+TestApp/bin/
 TestApp/.cache
 TestApp/.classpath
 TestApp/.project
-TestA/.settings
+TestApp/.settings
