@@ -14,6 +14,12 @@ object App {
       println(Calculator.sumInt(List(3,5,7,8).toArray));
       
       var p:Person = new Person("","",1);
+      
+      println(Calculator.doubleIncrement(3));
+
+      println(Calculator.hundredIncrement(4));
+      
+      println(Calculator.doubleIncrement(8));
     }
 
 	
